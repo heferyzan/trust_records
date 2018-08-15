@@ -7,4 +7,5 @@ This script checks for cases where users enable content in a Word 2010/2013 docu
 Usage: python trustrecords.py -f NTUSER.dat
 
 Requirements: python-registry from https://github.com/williballenthin/python-registry
+
 Install python-registry: sudo python setup.py install
