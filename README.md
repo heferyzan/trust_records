@@ -1,4 +1,4 @@
-Microsoft Word 2010/2013 TrustRecords Check
+# Microsoft Word 2010/2013 TrustRecords Check
 
 Inspiration: http://az4n6.blogspot.com/2016/02/more-on-trust-records-macros-and.html
 
